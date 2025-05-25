@@ -3,7 +3,8 @@
 Индекс: 191209
 
 Control Flow Graph
-???????????????
+![image](https://github.com/user-attachments/assets/9d7e7a0c-500d-47da-b943-70200be50e2a)
+
 
 Ciklomatska Kompleksnost
 M = E − N + 2P -> Formula
